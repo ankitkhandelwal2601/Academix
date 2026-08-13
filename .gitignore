@@ -1,0 +1,19 @@
+#Python
+venv/
+__pycache__/
+*.pyc
+.env
+*.pkl
+
+# Node / react
+node_modules/
+frontend/build/
+
+#Database
+*.db 
+*.sqlite3
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
